@@ -172,7 +172,7 @@ House-Price-Analysis/
 1. Clone this repository:
 
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/ayushkhali/Test.git
    ```
 
 2. Open the `.pbix` file using Microsoft Power BI Desktop.
