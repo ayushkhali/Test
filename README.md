@@ -64,15 +64,15 @@ The dashboard provides a comprehensive view of housing market performance, enabl
 
 ### 1. House Market Overview
 
-(HousePriceSample 11_12_2026 6_54_58 PM.png)
+HousePriceSample 11_12_2026 6_54_58 PM.png
 
 ### 2. Sales Overview
 
-(HousePriceSample 11_12_2026 6_20_31 PM.png)
+HousePriceSample 11_12_2026 6_20_31 PM.png
 
 ### 3. Regional & Local Breakdown
 
-(HousePriceSample 11_12_2026 6_20_40 PM.png)
+HousePriceSample 11_12_2026 6_20_40 PM.png
 
 ## Insights
 
