@@ -64,15 +64,15 @@ The dashboard provides a comprehensive view of housing market performance, enabl
 
 ### 1. House Market Overview
 
-![House Market Overview](<img width="1920" height="1007" alt="HousePriceSample 11_12_2026 6_54_58 PM" src="https://github.com/user-attachments/assets/b72adb41-1d82-47b9-b3ce-9cd7ceacfc18" />)
+![House Market Overview](<HousePriceSample 11_12_2026 6_54_58 PM.png)
 
 ### 2. Sales Overview
 
-![Sales Overview](<img width="1920" height="1007" alt="HousePriceSample 11_12_2026 6_20_31 PM" src="https://github.com/user-attachments/assets/0c61a414-311e-4d8b-bf99-1e34cfb92ac1">)
+![Sales Overview](HousePriceSample 11_12_2026 6_20_31 PM.png)
 
 ### 3. Regional & Local Breakdown
 
-![Regional and Local Breakdown](<img width="1920" height="1007" alt="HousePriceSample 11_12_2026 6_20_40 PM" src="https://github.com/user-attachments/assets/30c8ac46-1f45-4e84-8d31-3d2b8c36cc65">)
+![Regional and Local Breakdown](HousePriceSample 11_12_2026 6_20_40 PM.png)
 
 ## Insights
 
