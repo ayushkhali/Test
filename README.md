@@ -64,7 +64,6 @@ The dashboard provides a comprehensive view of housing market performance, enabl
 
 ### 1. House Market Overview
 
-
 ![Housr Market Overview](images/HousePriceSample%2011_12_2026%206_54_58%20PM.png)
 
 ### 2. Sales Overview
@@ -74,6 +73,7 @@ The dashboard provides a comprehensive view of housing market performance, enabl
 ### 3. Regional & Local Breakdown
 
 ![Regional & Local Breakdown](images/HousePriceSample%2011_12_2026%206_20_40%20PM.png)
+
 
 ## Insights
 
@@ -189,7 +189,7 @@ House-Price-Analysis/
 
 Aspiring Data Analyst | Python | SQL | Power BI | Excel | Tableau
 
-[LinkedIn](http://www.linkedin.com/in/ayush)
+[LinkedIn](https://www.linkedin.com/in/ayush-khali/)
 
 ---
 
