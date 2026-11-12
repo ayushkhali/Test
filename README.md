@@ -68,7 +68,7 @@ HousePriceSample 11_12_2026 6_54_58 PM.png
 
 ### 2. Sales Overview
 
-HousePriceSample 11_12_2026 6_20_31 PM.png
+![House Market Overview](images/HousePriceSample%2011_12_2026%206_20_31%20PM.png)
 
 ### 3. Regional & Local Breakdown
 
